@@ -1,0 +1,27 @@
+.bg-custom-nav{
+    background-color: rgb(80, 92, 143); /* Cambia el color del encabezado*/
+}
+
+.navbar-nav .nav-item {
+    margin-left: 20px;
+    font-weight: bold; /* Hace que el texto esté en negrita */
+}
+
+.navbar-nav .nav-item a {
+    font-size: 18px; /* Ajusta el tamaño del texto */
+}
+
+.navbar-nav .nav-item.nav-custom1{
+    margin-left: 60px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item.nav-custom2{
+    margin-left: 450px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item.nav-custom3{
+    margin-left: 10px;
+}
+

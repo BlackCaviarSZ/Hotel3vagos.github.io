@@ -1,0 +1,12 @@
+.container-fluid{
+    background-color: rgb(158, 173, 248);
+}
+
+.carousel-caption h5, .carousel-caption p {
+    color: #ffffff; /* Color del texto interior */
+    text-shadow: 
+        -1px -1px 0 #000000, /* Sombra superior-izquierda */
+         1px -1px 0 #000000, /* Sombra superior-derecha */
+        -1px  1px 0 #000000, /* Sombra inferior-izquierda */
+         1px  1px 0 #000000; /* Sombra inferior-derecha */
+}

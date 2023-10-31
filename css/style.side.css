@@ -1,0 +1,11 @@
+.bg-custom-side{
+    background-color: rgb(30, 38, 62); /* Cambia el color del sidebar*/
+}
+
+.bg-custom-side a {
+    color: white; /* Establece el color del texto a blanco */
+    padding: 10px 20px; /* Añade espacio alrededor del texto */
+    display: block; /* Hace que los enlaces ocupen todo el ancho del contenedor */
+    text-decoration: none; /* Elimina la subrayado predeterminado */
+}
+
